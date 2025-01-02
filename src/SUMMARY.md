@@ -1,3 +1,3 @@
 # Summary
 
-[Abstract](./abstract.md)
+[초록](./abstract.md)
