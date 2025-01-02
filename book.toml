@@ -1,0 +1,6 @@
+[book]
+authors = ["이재현"]
+language = "en"
+multilingual = false
+src = "src"
+title = "왜 함수형 프로그래밍은 중요한가"
